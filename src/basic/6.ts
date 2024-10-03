@@ -16,8 +16,10 @@ const mango: User = {
     };
     
     const poly: User = {
-        name: 'Mango',
-        age: 30,
-        email: 'john@example.com'
+      name: 'Mango',
+      age: 30,
+      email: 'john@example.com'
     };
     
+    mango;
+    poly;

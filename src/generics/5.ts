@@ -11,4 +11,5 @@ export enum UserRole {
      editor: 'Editor User',
      guest: 'Guest User',
     };
-    
+
+RoleDescription;

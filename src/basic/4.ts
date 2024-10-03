@@ -10,3 +10,6 @@ function showMessage(message: string) {
      throw new Error('Error');
     }
     
+    showMessage;
+    calc;
+    customError;

@@ -24,3 +24,5 @@ const page1: Pages = {
      status: 'close',
     }
     
+    page1;
+    page2; 
