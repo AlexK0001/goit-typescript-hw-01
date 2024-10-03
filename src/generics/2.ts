@@ -16,3 +16,4 @@ type AllType = {
      }
     }
     
+    compare;

@@ -6,10 +6,12 @@ type User = {
     }
     
     function createOrUpdateUser(initialValues: Partial<User>) {
+        console.log(initialValues);
     }
     
     createOrUpdateUser({ 
       email: 'user@mail.com', 
       password: 'password123' 
     });
+    
     
